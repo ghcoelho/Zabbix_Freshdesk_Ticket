@@ -2,7 +2,7 @@
 
 Automated system for opening ticket the Freshdesk, but only makes the opening and not fechamanto. I ask collaboration to create the automatic closing.
 
-Sujestões are welcome.
+Suggestions are welcome.
 
 ![Alt text](img/media_script.png)
 
